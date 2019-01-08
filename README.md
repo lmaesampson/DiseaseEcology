@@ -1,6 +1,12 @@
 # DiseaseEcology
 Can we define the field of disease ecology? Using natural language processing? We can sure try!
 
+**Project Overview**
+
+The field of disease ecology is both new and inherently interdisciplinary, and is thus difficult to define. Without a definition of what exactly disease ecology *is*, it is also difficult to design coursework or determine what skills a person should master in order to be successful in the field. 
+
+To determine what is and is not disease ecology, we decided to combine two approaches: a survey in which we ask disease ecologists to define themselves, and an NLP analysis of the corpus of disease ecology literature to see what disease ecologists are researching. 
+
 **Code**
 
 Contains code for cleaning and analyzing the corpus datasets.
